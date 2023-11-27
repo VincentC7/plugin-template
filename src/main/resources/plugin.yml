@@ -1,0 +1,7 @@
+name: Invest
+version: '${project.version}'
+main: fr.lordhydra.invest.Invest
+api-version: 1.19
+prefix: Invest
+authors: [ LordHydra ]
+description: Zone d'investissement pour permettre aux joueurs AFK de gagner de l'argent

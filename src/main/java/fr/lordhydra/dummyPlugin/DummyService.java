@@ -1,10 +1,10 @@
-package fr.lordhydra.invest;
+package fr.lordhydra.dummyPlugin;
 
 import lombok.Getter;
 import lombok.Setter;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class Invest extends JavaPlugin {
+public final class DummyService extends JavaPlugin {
 
     @Getter
     @Setter
@@ -14,8 +14,6 @@ public final class Invest extends JavaPlugin {
     public void onEnable() {
         setInstance(this);
         getLogger().info("started");
-
-
     }
 
     @Override

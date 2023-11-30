@@ -1,7 +1,7 @@
-name: Invest
+name: DummyPlugin
 version: '${project.version}'
-main: fr.lordhydra.invest.Invest
+main: fr.lordhydra.dummyPlugin.DummyPlugin
 api-version: 1.19
-prefix: Invest
+prefix: DummyPlugin
 authors: [ LordHydra ]
-description: Zone d'investissement pour permettre aux joueurs AFK de gagner de l'argent
+description: DummyDescription
